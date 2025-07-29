@@ -52,4 +52,4 @@ PortfolioViewer ist eine modulare Plattform, mit der Nutzer ihre Finanzportfolio
 - Anomalie-Erkennung bei Transaktionen (Betrugsschutz)
 - Social-Features: Nutzer vergleichen Portfolios anonym
 - Steueroptimierung (Verlustverrechnung, Haltefristen)
-- Chatbot-
+- Chatbot-Beratung mit KI
