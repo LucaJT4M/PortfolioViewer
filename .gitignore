@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# Angular
+PortfolioViewer.WebApp/node_modules/
+PortfolioViewer.WebApp/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
